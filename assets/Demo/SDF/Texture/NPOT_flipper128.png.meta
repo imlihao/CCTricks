@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f4dba27b-07fe-49b5-ab2b-2dca258a3ae0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "NPOT_flipper128": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "02e5207e-66e7-43e3-94ed-21ccbb68956e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f4dba27b-07fe-49b5-ab2b-2dca258a3ae0",
       "trimType": "auto",
       "trimThreshold": 1,

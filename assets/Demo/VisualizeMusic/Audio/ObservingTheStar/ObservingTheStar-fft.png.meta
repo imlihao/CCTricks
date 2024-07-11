@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5c3a79cb-58fe-491b-a3dd-c211bba20ff1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "point",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ObservingTheStar-fft": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "45ed4a56-2c59-485f-81f0-42f50e248ac9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5c3a79cb-58fe-491b-a3dd-c211bba20ff1",
       "trimType": "auto",
       "trimThreshold": 1,

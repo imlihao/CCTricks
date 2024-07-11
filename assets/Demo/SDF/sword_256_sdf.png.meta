@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4786d8ef-be99-48fa-be1e-161fb6aa4438",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "sword_256_sdf": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "85e76934-0b61-413e-a2e4-7c64e4e6a363",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4786d8ef-be99-48fa-be1e-161fb6aa4438",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f02a2ecf-65f3-4a1f-beb8-d6ad1eaf0831",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Weapons_0010_Capa-8 (2)": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "90ac2a42-bf92-4e95-8bc9-19d8d28a78df",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f02a2ecf-65f3-4a1f-beb8-d6ad1eaf0831",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3cd81f76-fddc-4ef8-a58f-fb0a8b6a1136",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "GT_sdf": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "783a8085-2692-4b8d-8661-11cd0518c93b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3cd81f76-fddc-4ef8-a58f-fb0a8b6a1136",
       "trimType": "auto",
       "trimThreshold": 1,

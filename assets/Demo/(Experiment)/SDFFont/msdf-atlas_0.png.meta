@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "abac2396-06b5-4591-8e59-62c52262a5ea",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "msdf-atlas_0": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ad053230-1613-4c03-b02e-c28e1e789779",
+      "importer": "sprite-frame",
       "rawTextureUuid": "abac2396-06b5-4591-8e59-62c52262a5ea",
       "trimType": "auto",
       "trimThreshold": 1,
